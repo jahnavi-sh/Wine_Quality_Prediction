@@ -199,6 +199,11 @@ cbar: Whether to draw a colorbar.
 corr() - 
 corr() method finds the pairwise correlation of each column in a dataframe. 
 
+There are two types of correlation - 
+Positive correlation - when the columns are directly proportional to each other 
+Negative correlation - when the columns are inversely proportional to each other. 
+
+
 Train-test split - 
 The entire dataset is split into training dataset and testing dataset. Usually, 80-20 or 70-30 split is done. The train-test split is used to prevent the model from overfitting and to estimate the performance of prediction-based algorithms. We need to split the dataset to evaluate how well our machine learning model performs. The train set is used to fit the model, and statistics of training set are known. Test set is for predictions. 
 
