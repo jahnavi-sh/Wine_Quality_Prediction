@@ -1,4 +1,4 @@
-#understanding the problem statement - 
+#First, understanding the problem statement - 
 #we will predict the quality of wine on the basis of given features.  
 
 #volatile acidity - gaseous acids present in wine
@@ -16,7 +16,7 @@
 #our task is to build a machine learning algorithm to automate  the process of wine quality prediction, machine learning saves 
 #both resources and time for winemaking businesses
 
-#workflow 
+#workflow for the project -
 #1. wine data 
 #2. data analysis - check which features are relevant 
 #3. data preprocessing 
